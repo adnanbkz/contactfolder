@@ -1,5 +1,5 @@
-# contactfolder
-Contact Book Application in Java 📒
+# CONTACT FOLDER 📒
+Contact Book Application in Java 
 
 Welcome to the Contact Book Application in Java project! This repository is designed to help beginners understand data management and user interaction by creating a functional contact book.
 📖 Description
